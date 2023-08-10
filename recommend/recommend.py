@@ -1,6 +1,6 @@
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
-
+# test
 def load_data(filename):
     df = pd.read_csv(filename)
     df.set_index('user', inplace=True)
