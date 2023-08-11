@@ -35,7 +35,7 @@ def main():
         print(f"Recommended movie: {recommendation}")
 
         response = input("Did you like the recommendation? (yes/no): ")
-        if response.lower() == 'yes':
+        if response.lower() in ['yes','y']:
             print("Great choice!")
             liked_recommendation = True
         else:
