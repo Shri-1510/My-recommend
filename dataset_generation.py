@@ -8,7 +8,7 @@ movie_names = [
     "Casablanca", "The Lord of the Rings", "The Avengers", "Eternal Sunshine of the Spotless Mind",
     "The Social Network", "Black Panther", "La La Land", "The Grand Budapest Hotel", "Blade Runner 2049",
     "The Incredibles", "Toy Story", "Gone with the Wind", "The Silence of the Lambs", "Shutter Island",
-    "The Revenant", "The Breakfast Club", "The Princess Bride", "The Godfather Part II", "The Big Lebowski"
+    "The Revenant", "The Breakfast Club", "The Princess Bride", "The Godfather Part II", "The Big Lebowski","The Good Dinosaur"
 ]
 
 num_users = 10000
